@@ -1,9 +1,9 @@
 {
-"companyName": "iPAX Studio",
-"productName": "Bibliotech Web Ar",
+"companyName": "DefaultCompany",
+"productName": "Unity-WebXR-Export",
 "productVersion": "0.1",
 "dataUrl": "build.data.unityweb",
-"wasmCodeUrl": "build.wasm.code.unityweb",
+"wasmCodeUrl": "build.wasm",
 "wasmFrameworkUrl": "build.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
